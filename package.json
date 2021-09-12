@@ -1,0 +1,13 @@
+{
+  "name": "ape-blender-fork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "3.4.0",
+    "@uniswap/lib": "^4.0.1-alpha"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.5.0"
+  }
+}
